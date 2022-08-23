@@ -29,5 +29,7 @@ Existing problems/limitations:
    file) the injected image line will have a repeated injection sequence,
    so the program does not raise a C.R.E.
 
+---
+
 Time spent:
 58 hrs as of submission
