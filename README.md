@@ -1,15 +1,13 @@
-----------------------------------------------------------------------
-|                      COMP 40 hw01: Uncorrupt Image Files           |
-| Eli Intriligator (eintri01)                                        |
-| Katie Yang (zyang11)                                               |
-| Sep 23 2021                                                        |
-----------------------------------------------------------------------
+# COMP 40 hw01: Uncorrupt Image Files
+Eli Intriligator and Katie Yang
 
-Help acknowledgements:
-TAs: Alex, Dylan, Tina, Ann-Marie, Zach, Jackson, Liana, Igor, Gustavo
+Date: Sep 23 2021
+
+TA help acknowledgements:
+     Alex, Dylan, Tina, Ann-Marie, Zach, Jackson, Liana, Igor, Gustavo
      Mary-Joy
 
-Features implemented & existing problems
+## Features implemented & existing problems
 
 Correctly implemented:
 
@@ -28,8 +26,8 @@ Correctly implemented:
 
 Existing problems/limitations:
 1. If an uncorrupted file is supplied (for example a completely normal P2 pgm
-   file) the injected image line would have a repeated injection sequence,
-   so the program would not raise a C.R.E.
+   file) the injected image line will have a repeated injection sequence,
+   so the program does not raise a C.R.E.
 
 Time spent:
 58 hrs as of submission
